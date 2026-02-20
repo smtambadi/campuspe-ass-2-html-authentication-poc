@@ -17,4 +17,5 @@ This is a weekly assignment project, which contains 5 HTML pages demonstrating b
 - Plain HTML structure only
 
 ## Author
-Your Name
+Shivakumar Mahadev Tambadi
+Intern @ CampusPe
